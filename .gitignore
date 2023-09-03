@@ -1,0 +1,12 @@
+# dependencies
+/node_modules
+
+# generated files
+/dist
+/artifacts
+/typechain-types
+
+# other
+.DS_Store
+.env
+/cache
